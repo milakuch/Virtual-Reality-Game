@@ -16,6 +16,6 @@ You can find the whole Unity project here --->https://drive.google.com/drive/fol
 
 # In Game Screenshots:
 
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
-![Screenshot](Screenshot3.png)
+![Screenshot](Screenshot1.PNG)
+![Screenshot](Screenshot2.PNG)
+![Screenshot](Screenshot3.PNG)
